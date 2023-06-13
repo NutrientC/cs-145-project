@@ -1,1 +1,2 @@
 # CS 145 Spring 2023 Project
+This project compared the performance of ensemble vs. non-ensemble machine learning methods. This project was run in Google Colaboratory. The filepaths to the datasets in the Jupyter notebook may need to be changed.
